@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.dbb1915e.css",
-    "main.js": "/static/js/main.37f35f9c.js",
-    "static/media/iphone.png": "/static/media/iphone.080029ada53f0cd57453.png",
-    "static/media/gradient.png": "/static/media/gradient.12a666ed10b3b442b534.png",
-    "index.html": "/index.html",
-    "main.dbb1915e.css.map": "/static/css/main.dbb1915e.css.map",
-    "main.37f35f9c.js.map": "/static/js/main.37f35f9c.js.map"
+    "main.css": "/Tony046/Crypto_Tracker/static/css/main.dbb1915e.css",
+    "main.js": "/Tony046/Crypto_Tracker/static/js/main.44373e6a.js",
+    "static/media/iphone.png": "/Tony046/Crypto_Tracker/static/media/iphone.080029ada53f0cd57453.png",
+    "static/media/gradient.png": "/Tony046/Crypto_Tracker/static/media/gradient.12a666ed10b3b442b534.png",
+    "index.html": "/Tony046/Crypto_Tracker/index.html",
+    "main.dbb1915e.css.map": "/Tony046/Crypto_Tracker/static/css/main.dbb1915e.css.map",
+    "main.44373e6a.js.map": "/Tony046/Crypto_Tracker/static/js/main.44373e6a.js.map"
   },
   "entrypoints": [
     "static/css/main.dbb1915e.css",
-    "static/js/main.37f35f9c.js"
+    "static/js/main.44373e6a.js"
   ]
 }
